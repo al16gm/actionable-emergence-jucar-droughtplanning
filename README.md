@@ -1,6 +1,6 @@
 # Actionable Emergence of Scenario-Conditioned Hydrological Forecasts for Drought Planning in Regulated Mediterranean Basins
  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PENDING.svg)](https://doi.org/10.5281/zenodo.PENDING)
+[![DOI](https://zenodo.org/badge/1170836933.svg)](https://doi.org/10.5281/zenodo.19188723)
  
 **Authors:** A. Garcia-Monteagudo¹, M. Arnaldos², M.A. Pardo¹  
 **Affiliations:** ¹University of Alicante | ²Cetaqua, Water Technology Centre  
@@ -13,7 +13,7 @@ This repository contains the results data, analysis scripts, and supplementary m
 > Garcia-Monteagudo A, Arnaldos M, Pardo MA (2026) Actionable emergence of
 > scenario-conditioned hydrological forecasts for drought planning in regulated
 > Mediterranean basins. *Stochastic Environmental Research and Risk Assessment*.
-> DOI 10.5281/zenodo.19188724
+> [DOI 10.5281/zenodo.19188724]
  
 This is the **third paper** in a series on data-driven hydrological modelling for the
 Júcar Hydrographic Confederation (JHC, eastern Spain):
