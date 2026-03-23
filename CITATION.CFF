@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: >-
+  Actionable Emergence of Scenario-Conditioned Hydrological Forecasts
+  for Drought Planning in Regulated Mediterranean Basins
+message: 'If you use this software, please cite it using these metadata.'
+type: software
+authors:
+  - family-names: Garcia-Monteagudo
+    given-names: Alejandro
+    orcid: 'https://orcid.org/0009-0007-5878-6703'
+    affiliation: University of Alicante
+  - family-names: Arnaldos
+    given-names: Marina
+    orcid: 'https://orcid.org/0000-0002-1648-0083'
+    affiliation: Cetaqua
+  - family-names: Pardo
+    given-names: Miguel Angel
+    orcid: 'https://orcid.org/0000-0001-8779-3258'
+    affiliation: University of Alicante
+repository-code: 'https://github.com/al16gm/actionable-emergence-jucar-droughtplanning'
+license: MIT
+year: 2026
