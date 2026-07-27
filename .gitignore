@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Environment variables and credentials
+.env
+.env.*
+*.key
+*.pem
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.xls
+~$*.docx
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Test and cache directories
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local notebook outputs that are not part of the release
+local_outputs/
+scratch/
+tmp/
